@@ -49,7 +49,6 @@ PRODUCT_PACKAGES += \
     libexynoscamera3 \
     libhifistill \
     libopenvx \
-    libwrappergps \
     libaudioeffectoffload \
     audio.primary.exynos9810 \
     sound_trigger.primary.exynos9810 \
