@@ -40,11 +40,6 @@ PRODUCT_PACKAGES += \
     libexynoscamera3 \
     libhifistill \
     libopenvx \
-    libaudioeffectoffload \
-    audio.primary.exynos9810 \
-    lib_SamsungRec_06006 \
-    libaudioproxy \
-    librecordalive \
     libkeymaster_helper_vendor
 
 # Dolby Atmos
